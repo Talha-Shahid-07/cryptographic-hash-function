@@ -44,7 +44,7 @@ sudo apt install g++ make libssl-dev
 ## Building
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Talha-Shahid-07/cryptographic-hash-function.git
 cd cryptographic-hash-function
 make
 ```
