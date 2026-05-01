@@ -1,0 +1,21 @@
+# Compiled binary
+hashtool
+
+# Object files
+src/*.o
+
+# Generated database files — these are runtime artifacts, not source code
+hashes.db
+passwords.db
+
+# Log files from batch hashing
+*.log
+
+# Editor/IDE clutter
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS junk (in case any teammate is on Mac)
+.DS_Store
